@@ -1,0 +1,23 @@
+################    The Sentiment Analysis LLM Content : ##########################
+
+1 * Raw_Scraped_Data : Folder containing the raw data scraped from the guardians API 
+
+2* Test Data : Folder containing the test data scrpaed from the guardians API
+
+3* Processed_Data : Folder containing the data after performing the text processing
+
+4* Deployed_Data : Folder conatining the deployed data after performing the sentiment analysis and scoring on the input data and also the generated graph
+
+5* Scored_Data : Folder conatining the deployed data after performing the sentiment analysis and scoring on the test data
+
+6* Scirpts : Folder containing the pipeline scripts from Scraping until Deployment and Testing
+
+7* Sentiment Analysis Case Study Presentation : powerpoint presentation describing with more details the full Sentiment Analysis pipeline 
+
+8* requirements.txt : Text File containing the required librairies to run the pipeline.
+
+
+################   Thank you  ##########################
+
+
+
